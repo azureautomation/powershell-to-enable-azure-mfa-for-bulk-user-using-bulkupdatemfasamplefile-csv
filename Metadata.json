@@ -1,0 +1,20 @@
+{
+    "Author": "ASabale",
+    "ContentSize": 5618,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-to-enable-azure-mfa-for-bulk-user-using-bulkupdatemfasamplefile-csv/master/Azure-multi-factor-auth.ps1",
+    "DownloadCount": 1605,
+    "Id": "POWERSHELL-TO-ENABLE-AZURE-a67dacdc",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 123,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-4-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "POWERSHELL TO ENABLE AZURE MFA FOR BULK USER USING BulkUpdateMFASampleFile CSVThis is just extension to the earlier script -\u00a0POWERSHELL TO ENABLE AZURE MULTI-FACTOR AUTHENTICATION FOR BULK USERAzure provide option to update bulk user from Azure portal using\u00a0sample CSV\u00a0file availa",
+    "Title": "POWERSHELL TO ENABLE AZURE MFA FOR BULK USER USING BulkUpdateMFASampleFile CSV",
+    "UpdatedDate": "2017-4-2T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-to-enable-azure-mfa-for-bulk-user-using-bulkupdatemfasamplefile-csv",
+    "UserTags": "Microsoft Azure, Step by Step Windows Azure MFA, Enable MFA"
+}
